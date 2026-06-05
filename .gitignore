@@ -1,8 +1,8 @@
-# Output hasil pemrosesan (auto-generated, bisa dibuat ulang)
+# Output hasil pemrosesan 
 hasil_sekuensial/
 hasil_paralel/
 
-# Folder input gambar (terlalu besar untuk repo)
+# Folder input gambar 
 images/
 
 # Python cache
