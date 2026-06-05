@@ -1,0 +1,16 @@
+# Output hasil pemrosesan (auto-generated, bisa dibuat ulang)
+hasil_sekuensial/
+hasil_paralel/
+
+# Folder input gambar (terlalu besar untuk repo)
+images/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# OS files
+Thumbs.db
+.DS_Store
